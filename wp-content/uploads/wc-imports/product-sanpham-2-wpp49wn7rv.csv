@@ -1,0 +1,83 @@
+"MaSanPham","TenSanPham","HinhAnh","MoTa","Gia","MaLoaiSanPham","MoTaNgan"
+"5","Vỉ mạch","http://localhost/myweb_1/images/san_pham/vi_mach/vm_main.png","1. Vỉ mạch tạo tín hiệu điều khiển còi đèn xương mù
+
+Vỉ mạch tạo tín hiệu điều khiển còi đèn xương mù có chức năng tạo tín hiệu điều khiển đưa sang hệ thống còi đèn xương mù trên tàu thuỷ. Vỉ mạch có các đầu vào cho phép lựa chọn các chế độ làm việc khác nhau. Mỗi một chế độ làm việc vỉ mạch lại tự động tạo ra một chu trình tín hiệu điều khiển còi đèn xương mù phù hợp theo quy định của tín hiệu còi đèn xương mù trên tàu biển.
+
+http://localhost/thaolinhmateco/images/san_pham/vi_mach/vm_1.png
+
+2. Vỉ mạch đo và hiển thị tốc độ máy tàu thuỷ
+
+http://localhost/thaolinhmateco/images/san_pham/vi_mach/vm_2.png
+
+Vỉ mạch đo và hiển thị tốc độ máy tàu thuỷ có chức năng đo, tính toán và hiển thị tốc độ máy đèn và máy chính trên tàu thuỷ với các đặc điểm:
+
+- Dễ dàng lắp đặt và kết nối,
+
+- Có đầu ra cho việc báo động quá tốc,
+
+- Cho phép lựa chọn cài đặt các tham số đầu vào như số xung trên một vòng quay, tham số quá tốc, thời gian lấy mẫu
+
+- Có đầu ra ± 10v cho phép kết nối với đồng hồ chỉ báo bằng kim
+
+3. Vỉ mạch báo động các thông số
+
+http://localhost/thaolinhmateco/images/san_pham/vi_mach/vm_3.png
+
+Vỉ mạch báo động các thông số có chức năng đo và báo động các thông số trong buồng máy với các đặc điểm sau:
+
+Cho phép đo và báo động đồng thời 15 kênh
+Chu kỳ và dạng tín hiệu báo động của 15 kênh riêng rẽ có thể cài đặt được bằng máy tính
+Dòng ra cực đại của một kênh là 500mA, 24vdc
+
+4. Vỉ mạch nghép nối tay chuông truyền lệnh – VDR
+
+Vỉ mạch nghép nối tay chuông truyền lệnh – VDR có chức năng chuyển đổi các lệnh dưới dạng ON/OFF của hệ thống tay chuông truyền lệnh thành các câu lệnh được được đóng theo giao thức NMEA0183 sau đó truyền thông sang hệ thống hộp đen. Vỉ mạch có thể chuyển đổi được tất cả các lệnh cơ bản của hệ thống tay chuông truyền lệnh sang chuẩn truyền dữ liệu NMEA 0183
+
+http://localhost/thaolinhmateco/images/san_pham/vi_mach/vm_4.png","500000","LK",NULL
+"6","Hệ thống báo động ca trực hàng hải buồng lái - BNWAS","http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_1.png","Hệ thống báo động trực ca hàng hải buồng lái với Model : HMC-BW900 do Công ty sản xuất theo đơn đặt hàng của công ty TNHH dịch vụ kỹ thuật Hoàng Minh. Hệ thống HMC-BW900 đã được Cục Đăng kiểm Việt Nam cấp giấy chứng nhận công nhận kiểu số 086/12CN-01 và cho phép sản xuất hàng loạt. Hiện nay hệ thống đã được lắp đặt trang bị cho trên 200 tàu biển Việt nam chạy tuyến quốc tế. Chiếm thị phần lớn nhất so với các công ty khác trong nước. Qua phản hồi của khách hàng thấy rằng hệ thống làm việc ổn định, có độ tin cậy cao","10000000","HT",NULL
+"7","Mặt lặp la bàn điện","http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_main.png","1. Mặt lặp la bàn điện có cơ cấu chỉ thị kim
+
+<img src=""http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_1.png"" />
+
+Mặt lặp la bàn điện ( Gyro Compass Repeater ) T&L được chế tạo hoàn toàn theo công nghệ kỹ thuật số. Nó có chức năng truy theo hướng của la bàn chủ, thông qua chuẩn kết nối NMEA0183 giữa mặt lặp và la bàn , đặc điểm
+
+Kết nối được với tất cả la bàn chủ hiện có trên tàu thủy, tính tương thích cao
+Độ chính xác đến 0.1 độ
+Dễ dàng lắp đặt và kết nối
+2. Mặt lặp la bàn điện có cơ cấu chỉ thị số
+
+Mặt lặp la bàn điện có cơ cấu chỉ thị số ( Digital Gyro Repeater ) T&L được chế tạo hoàn toàn theo công nghệ kỹ thuật số. Nó có chức năng truy theo hướng của la bàn chủ, thông qua chuẩn kết nối NMEA0183 giữa mặt lặp và la bàn với đặc điểm
+
+- Kết nối được với tất cả la bàn chủ hiện có trên tàu thủy, tính tương thích cao
+
+- Độ chính xác đến 0.1 độ
+
+- Dễ dàng lắp đặt và kết nối
+
+- Thông tin hiển dạng số bằng LED 7 đoạn. Ngoài việc hiển thị thông tin hướng mũi tàu, mặt lặp còn có chức năng tính toán và hiển thị tốc độ quay trở của tàu (ROT )
+
+<img src=""http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_2.png"" />","500000","TBDK",NULL
+"8","Thiết bị đo và chỉ báo tốc độ vòng quay chân vịt","http://localhost/thaolinhmateco/images/san_pham/tbdl/chanvit_main.png","Thiết bị đo và chỉ báo tốc độ vòng quay chân vịt ( RPM ) T&L được chế tạo theo công nghệ kỹ thuật số. Thiết bị có chức năng đo, tính toán và hiển thị tốc độ vòng quay chân vịt máy chính tàu thuỷ với các đặc điểm:
+
+- Dễ dàng lắp đặt và kết nối,
+
+- Có đầu ra cho việc báo động quá tốc,
+
+- Cho phép lựa chọn cài đặt các tham số đầu vào như số xung trên một vòng quay, tham số quá tốc, thời gian lấy mẫu.","1000000","TBDL",NULL
+"9","Bộ chuyển đổi giao thức tín hiệu NMEA 0183","http://localhost/thaolinhmateco/images/san_pham/tbgt/nmea_1.png","Bộ chuyển đổi giao thức tín hiệu NMEA 0183 có chức năng chuyển đổi giao thức các tín hiệu theo chuẩn NMEA 0183 nhằm kết nối 02 thiết bị sử dụng chuẩn truyền thông NMEA 0183 nhưng không cùng giao thức.","500000","TBGT",NULL
+"10","Bộ dồn kênh tín hiệu NMEA 0183","http://localhost/thaolinhmateco/images/san_pham/tbgt/nmea_2.png","Bộ dồn kênh tín hiệu NMEA 0183 có chức năng dồn hai tín hiệu theo chuẩn NMEA 0183 ở hai kênh riêng  biệt vào một đường ra chung. Được sử dụng cho các thiết bị trên tàu thuỷ mà chỉ có 01 cổng vào cho tín hiệu NMEA 0183 trong khi đó cần phải kết nối với 02 thiết bị theo chuẩn NMEA 0183.","500000","TBGT",NULL
+"11","Bộ đệm tín hiệu NMEA 0183","http://localhost/thaolinhmateco/images/san_pham/tbgt/nmea_3.png","Bộ đệm tín hiệu NMEA 0183 có chức năng khuếch đại tín hiệu số trên tàu thuỷ theo chuẩn NMEA 0183 và RS422. Cho phép tăng khả năng kết nối, mở rộng đầu ra cho các thiết bị trên tàu thuỷ","500000","TBGT",NULL
+"13","Hệ thống quản lý nước dằn tàu","http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_main.png","<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_1.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_2.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_3.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_4.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_5.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_6.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_7.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_8.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_9.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_10.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_11.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_12.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_13.png"" /><img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_14.png"" />
+<img src=""http://localhost/thaolinhmateco/images/san_pham/he_thong/ht2_15.png"" />","50000000","HT","Hệ thống quản lý nước dằn TLC-BWM là kết quả 5 năm nghiên cứu và phát triển bởi công ty TNHH Phát triển Công nghệ Hàng hải Thảo Linh với sự kết hợp của các nhà khoa học thuộc trường Đại học Hàng Hải Việt Nam"

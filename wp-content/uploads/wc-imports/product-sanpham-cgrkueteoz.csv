@@ -1,0 +1,66 @@
+"MaSanPham","TenSanPham","HinhAnh","MoTa","Gia","MaLoaiSanPham"
+"5","Vỉ mạch","http://localhost/thaolinhmateco/images/san_pham/vi_mach/vm_main.png","1. Vỉ mạch tạo tín hiệu điều khiển còi đèn xương mù
+
+Vỉ mạch tạo tín hiệu điều khiển còi đèn xương mù có chức năng tạo tín hiệu điều khiển đưa sang hệ thống còi đèn xương mù trên tàu thuỷ. Vỉ mạch có các đầu vào cho phép lựa chọn các chế độ làm việc khác nhau. Mỗi một chế độ làm việc vỉ mạch lại tự động tạo ra một chu trình tín hiệu điều khiển còi đèn xương mù phù hợp theo quy định của tín hiệu còi đèn xương mù trên tàu biển.
+
+uploads\san_pham\vi_mach\vm_1
+
+2. Vỉ mạch đo và hiển thị tốc độ máy tàu thuỷ
+
+uploads\san_pham\vi_mach\vm_2
+
+Vỉ mạch đo và hiển thị tốc độ máy tàu thuỷ có chức năng đo, tính toán và hiển thị tốc độ máy đèn và máy chính trên tàu thuỷ với các đặc điểm:
+
+- Dễ dàng lắp đặt và kết nối,
+
+- Có đầu ra cho việc báo động quá tốc,
+
+- Cho phép lựa chọn cài đặt các tham số đầu vào như số xung trên một vòng quay, tham số quá tốc, thời gian lấy mẫu
+
+- Có đầu ra ± 10v cho phép kết nối với đồng hồ chỉ báo bằng kim
+
+3. Vỉ mạch báo động các thông số
+
+uploads\san_pham\vi_mach\vm_3
+
+Vỉ mạch báo động các thông số có chức năng đo và báo động các thông số trong buồng máy với các đặc điểm sau:
+
+Cho phép đo và báo động đồng thời 15 kênh
+Chu kỳ và dạng tín hiệu báo động của 15 kênh riêng rẽ có thể cài đặt được bằng máy tính
+Dòng ra cực đại của một kênh là 500mA, 24vdc
+
+4. Vỉ mạch nghép nối tay chuông truyền lệnh – VDR
+
+Vỉ mạch nghép nối tay chuông truyền lệnh – VDR có chức năng chuyển đổi các lệnh dưới dạng ON/OFF của hệ thống tay chuông truyền lệnh thành các câu lệnh được được đóng theo giao thức NMEA0183 sau đó truyền thông sang hệ thống hộp đen. Vỉ mạch có thể chuyển đổi được tất cả các lệnh cơ bản của hệ thống tay chuông truyền lệnh sang chuẩn truyền dữ liệu NMEA 0183
+
+uploads\san_pham\vi_mach\vm_4","100000","LK"
+"6","Hệ thống báo động ca trực hàng hải buồng lái - BNWAS","http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_1.png","Hệ thống báo động trực ca hàng hải buồng lái với Model : HMC-BW900 do Công ty sản xuất theo đơn đặt hàng của công ty TNHH dịch vụ kỹ thuật Hoàng Minh. Hệ thống HMC-BW900 đã được Cục Đăng kiểm Việt Nam cấp giấy chứng nhận công nhận kiểu số 086/12CN-01 và cho phép sản xuất hàng loạt. Hiện nay hệ thống đã được lắp đặt trang bị cho trên 200 tàu biển Việt nam chạy tuyến quốc tế. Chiếm thị phần lớn nhất so với các công ty khác trong nước. Qua phản hồi của khách hàng thấy rằng hệ thống làm việc ổn định, có độ tin cậy cao","10000000","HT"
+"7","Mặt lặp la bàn điện","http://localhost/thaolinhmateco/images/san_pham/tbdk/laban_main.png","1. Mặt lặp la bàn điện có cơ cấu chỉ thị kim
+
+<img src=""http://localhost/myweb_1/images/san_pham/tbdk/laban_1.png"" />
+
+Mặt lặp la bàn điện ( Gyro Compass Repeater ) T&L được chế tạo hoàn toàn theo công nghệ kỹ thuật số. Nó có chức năng truy theo hướng của la bàn chủ, thông qua chuẩn kết nối NMEA0183 giữa mặt lặp và la bàn , đặc điểm
+
+Kết nối được với tất cả la bàn chủ hiện có trên tàu thủy, tính tương thích cao
+Độ chính xác đến 0.1 độ
+Dễ dàng lắp đặt và kết nối
+2. Mặt lặp la bàn điện có cơ cấu chỉ thị số
+
+Mặt lặp la bàn điện có cơ cấu chỉ thị số ( Digital Gyro Repeater ) T&L được chế tạo hoàn toàn theo công nghệ kỹ thuật số. Nó có chức năng truy theo hướng của la bàn chủ, thông qua chuẩn kết nối NMEA0183 giữa mặt lặp và la bàn với đặc điểm
+
+- Kết nối được với tất cả la bàn chủ hiện có trên tàu thủy, tính tương thích cao
+
+- Độ chính xác đến 0.1 độ
+
+- Dễ dàng lắp đặt và kết nối
+
+- Thông tin hiển dạng số bằng LED 7 đoạn. Ngoài việc hiển thị thông tin hướng mũi tàu, mặt lặp còn có chức năng tính toán và hiển thị tốc độ quay trở của tàu (ROT )
+
+<img src=""http://localhost/myweb_1/images/san_pham/tbdk/laban_2.png"" />","500000","TBDK"
+"8","Thiết bị đo và chỉ báo tốc độ vòng quay chân vịt","http://localhost/thaolinhmateco/images/san_pham/tbdl/chanvit_main.png","Thiết bị đo và chỉ báo tốc độ vòng quay chân vịt ( RPM ) T&L được chế tạo theo công nghệ kỹ thuật số. Thiết bị có chức năng đo, tính toán và hiển thị tốc độ vòng quay chân vịt máy chính tàu thuỷ với các đặc điểm:
+
+- Dễ dàng lắp đặt và kết nối,
+
+- Có đầu ra cho việc báo động quá tốc,
+
+- Cho phép lựa chọn cài đặt các tham số đầu vào như số xung trên một vòng quay, tham số quá tốc, thời gian lấy mẫu.","1000000","TBDL"
